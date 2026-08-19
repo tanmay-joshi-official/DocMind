@@ -8,15 +8,15 @@ Built with **Streamlit**, **LangChain**, **ChromaDB**, **Hugging Face Embeddings
 
 ## 🚀 Features
 
-- 📂 Upload any PDF document
-- 💬 Ask questions in natural language
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔍 Semantic search using vector embeddings
-- 📖 Context-aware answers from the uploaded document
-- ⚡ Fast document retrieval with ChromaDB
-- 🤖 Powered by Mistral AI
-- 🎨 Clean and interactive Streamlit interface
-- 📚 Displays retrieved context for transparency
+-  Upload any PDF document
+-  Ask questions in natural language
+-  Retrieval-Augmented Generation (RAG)
+-  Semantic search using vector embeddings
+-  Context-aware answers from the uploaded document
+-  Fast document retrieval with ChromaDB
+-  Powered by Mistral AI
+-  Clean and interactive Streamlit interface
+-  Displays retrieved context for transparency
 
 ---
 
@@ -300,5 +300,3 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 - GitHub: https://github.com/tanmay-joshi-official
 - LinkedIn: https://linkedin.com/in/tanmay-joshi-
-
---
