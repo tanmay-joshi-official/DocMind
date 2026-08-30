@@ -1,4 +1,4 @@
-# 📄 Chat with PDF using RAG
+# 📄 DocMind : Intelligent PDF Question Answering using RAG
 
 A Retrieval-Augmented Generation (RAG) application that lets users upload a PDF and ask natural language questions about its contents. The application retrieves the most relevant sections from the document using vector embeddings and generates accurate answers using the Mistral LLM.
 
@@ -6,17 +6,23 @@ Built with **Streamlit**, **LangChain**, **ChromaDB**, **Hugging Face Embeddings
 
 ---
 
-## 🚀 Features
+# 🎥 Demo
 
-- 📂 Upload any PDF document
-- 💬 Ask questions in natural language
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔍 Semantic search using vector embeddings
-- 📖 Context-aware answers from the uploaded document
-- ⚡ Fast document retrieval with ChromaDB
-- 🤖 Powered by Mistral AI
-- 🎨 Clean and interactive Streamlit interface
-- 📚 Displays retrieved context for transparency
+https://github.com/user-attachments/assets/236678ed-f71c-42ba-90d5-0dfb57432cd7
+
+---
+
+## ✨ Features
+
+-  Upload any PDF document
+-  Ask questions in natural language
+-  Retrieval-Augmented Generation (RAG)
+-  Semantic search using vector embeddings
+-  Context-aware answers from the uploaded document
+-  Fast document retrieval with ChromaDB
+-  Powered by Mistral AI
+-  Clean and interactive Streamlit interface
+-  Displays retrieved context for transparency
 
 ---
 
@@ -107,7 +113,7 @@ chat-with-pdf/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chat-with-pdf-rag.git
+git clone https://github.com/tanmay-joshi-official/docmind.git
 
 cd chat-with-pdf-rag
 ```
@@ -300,5 +306,3 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 - GitHub: https://github.com/tanmay-joshi-official
 - LinkedIn: https://linkedin.com/in/tanmay-joshi-
-
---
