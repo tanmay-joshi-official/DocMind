@@ -6,7 +6,13 @@ Built with **Streamlit**, **LangChain**, **ChromaDB**, **Hugging Face Embeddings
 
 ---
 
-## 🚀 Features
+# 🎥 Demo
+
+https://github.com/user-attachments/assets/236678ed-f71c-42ba-90d5-0dfb57432cd7
+
+---
+
+## ✨ Features
 
 -  Upload any PDF document
 -  Ask questions in natural language
