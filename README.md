@@ -113,7 +113,7 @@ chat-with-pdf/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chat-with-pdf-rag.git
+git clone https://github.com/tanmay-joshi-official/docmind.git
 
 cd chat-with-pdf-rag
 ```
