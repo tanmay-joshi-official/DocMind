@@ -14,7 +14,7 @@ from langchain_mistralai import ChatMistralAI
 load_dotenv()
 
 st.set_page_config(
-    page_title="Chat with PDF",
+    page_title="DocMind : Chat with PDF",
     page_icon="📄",
     layout="wide"
 )
@@ -59,7 +59,7 @@ if "retriever" not in st.session_state:
 if "processed_file" not in st.session_state:
     st.session_state.processed_file = None
 
-st.title("📄 Chat with your PDF")
+st.title("📄DocMind : Chat with your PDF")
 
 uploaded_pdf = st.file_uploader(
     "Upload a PDF",
