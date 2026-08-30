@@ -1,4 +1,4 @@
-# 📄 Chat with PDF using RAG
+# 📄 DocMind : Intelligent PDF Question Answering using RAG
 
 A Retrieval-Augmented Generation (RAG) application that lets users upload a PDF and ask natural language questions about its contents. The application retrieves the most relevant sections from the document using vector embeddings and generates accurate answers using the Mistral LLM.
 
